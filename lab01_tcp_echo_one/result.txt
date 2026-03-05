@@ -1,0 +1,10 @@
+egor@egor-VirtualBox:~/socket/lab01_tcp_echo_one$ cd ~/socket/lab01_tcp_echo_one
+egor@egor-VirtualBox:~/socket/lab01_tcp_echo_one$ python3 server.py
+server is listening
+new client accepted ('127.0.0.1', 35384)
+received data hello
+
+egor@egor-VirtualBox:~/git$ cd ~/socket/lab01_tcp_echo_one
+egor@egor-VirtualBox:~/socket/lab01_tcp_echo_one$ python3 client.py
+echo hello
+egor@egor-VirtualBox:~/socket/lab01_tcp_echo_one$ 

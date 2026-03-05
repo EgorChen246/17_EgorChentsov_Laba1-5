@@ -1,0 +1,6 @@
+egor@egor-VirtualBox:~/socket/lab04_pickle_and_udp/pickle$ python3 client.py
+echo {'name': 'alice', 'n': 42}
+egor@egor-VirtualBox:~/socket/lab04_pickle_and_udp/pickle$ cd ~/socket/lab04_pickle_and_udp/udp
+egor@egor-VirtualBox:~/socket/lab04_pickle_and_udp/udp$ python3 client.py
+echo hello udp
+egor@egor-VirtualBox:~/socket/lab04_pickle_and_udp/udp$ 
